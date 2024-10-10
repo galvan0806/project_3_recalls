@@ -26,6 +26,13 @@ We use a combination of Java and Python libraries to create visualizations that 
 - Plotly
 - Leaflet
 
+### Planned Visualizations
+- A heatmap showing the recalls across the United States.
+- A visualization for the top 15 firm recalls.
+- A visualization for categories of recalls.
+- A visualization for cities within the top state of recalls.
+
+
 ### Goals
 - To provide insights into FDA recalls in the United States.
 - To demonstrate the use of ETL processes in data analysis.
