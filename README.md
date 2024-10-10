@@ -32,7 +32,7 @@ We use a combination of Java and Python libraries to create visualizations that 
 - To showcase various data visualization techniques.
 
 ### Data Visualization Track
-For this track, our group will tell a story using data visualizations. Here are the specific requirements:
+For this track, our group will tell a story using data visualizations.
 
 - The project includes visualizations created with:
   - Python (e.g., Matplotlib)
