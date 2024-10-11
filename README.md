@@ -27,10 +27,10 @@ We use a combination of Java and Python libraries to create visualizations that 
 - Leaflet
 
 ### Planned Visualizations
-- A heatmap showing the recalls across the United States.
-- A visualization for the top 15 firm recalls.
-- A visualization for categories of recalls.
-- A visualization for cities within the top state of recalls.
+- A heatmap showing the recalls across the United States. -Manny and Natalia Galvan
+- A visualization for the top 15 firm recalls. - Lynn Foster
+- A visualization for categories of recalls. - Teddy Song
+- A visualization for cities within the top state of recalls. - Joe Almendarez
 
 
 ### Goals
